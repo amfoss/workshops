@@ -5,6 +5,9 @@ import time
 
 from selenium import webdriver
 
+# Demo program that registers random accounts in ctfd webiste.
+# (To show the use of Captcha)
+
 sleep_time = 1
 
 

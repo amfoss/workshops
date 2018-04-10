@@ -1,5 +1,7 @@
 import sys
 
+# Program that does Caesar cipher encryption and decryption
+
 
 def caesar_encrypt(input_message, key):
     if not 0 < key <= 26:

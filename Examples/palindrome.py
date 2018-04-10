@@ -1,4 +1,4 @@
-# Program to test if the project i
+# Program to check if the given string is palindrome
 
 
 text = input("Enter a text: ")
