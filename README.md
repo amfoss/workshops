@@ -9,6 +9,7 @@ s
 ### Sunday (29 July 2018) (9AM to 4PM):
 
 - **Introduction about FOSS club** [Devika](https://github.com/devikasugathan)
+    
     talk about what is the motto behind FOSS, what is FOSS actually, what happens at FOSS etc.
 
 - **Introduction to the workshop and Open Source Software** [Venu](https://github.com/vchrombie), [Aruna Maurya](https://github.com/ArunaMaurya221B), [Gayathri](https://github.com/Gayathrir1666/)
