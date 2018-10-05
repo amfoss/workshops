@@ -48,6 +48,7 @@ This repository has the whole syllabus that is to be discussed in the first week
     We will give them tasks till based on these many days, like bandit game (treasure hunt using linux commands) also with the help of googling. To make it interesting, we will remove the mouse connection and ask them to use only keyboard.
 
     Link to the file - https://github.com/vchrombie/dev-workshop/blob/master/assets/DO_NOT_CHEAT.tar.gz
+    
     Solution to it - https://github.com/aswinshenoy/foss-treasure-hunt-sh/blob/master/dig_the_treasure.sh
 
 
