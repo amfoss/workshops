@@ -1,113 +1,83 @@
-Tinkering Workshop syllabus
+# dev-workshop
+https://amfoss.in/workshop/7/
 
-Day1
+This repository has the whole syllabus that is to be discussed in the first week of the training programme.
 
-- Introduction 
-    - Importance of Technology in the 21st century 
-        - Code.og video 
-        - Picoctf.com video  
+## Week 1 Schedule:
 
-    - Why everyone must learn to code 
-    - New jobs in 
 
-21st century 
+### Sunday (29 July 2018) (9AM to 4PM):
 
-- Linux:  
-    - Intro to GNU/Linux - history, development, advantages  
-    - Demo installation using Virtual Box 
-    - Working with GUI to manage files - File Manager 
-    - Creating and editing files using Gedit, libre office 
-    - Command line.  
-        - What 
+- **Introduction about FOSS club** by [Devika](https://github.com/devikasugathan)
+    
+    talk about what is the motto behind FOSS, what is FOSS actually, what happens at FOSS etc.
 
-is command line and its uses? 
-        - Different commands and use cases of the terminal.  
-            - ls, mv, cat, tail, head, rm, 
+- **Introduction to the workshop and Open Source Software** by [Venu](https://github.com/vchrombie), [Aruna](https://github.com/ArunaMaurya221B), [Gayathri](https://github.com/Gayathrir1666/)
+    
+    talk about various things like
+    - what all things they will get to learn in this training programme
+    - open source (organizations, contributions etc)
+    - Linux
+    - git and GitHub
+    - any experiences of open source contributions
+    - various open source projects
 
-mkdir, cd, diff, grep, man 
+- **How to Google efficiently** by [Smriti](https://github.com/smritipillai), [Gowry](https://github.com/gowry189)
+    
+    talk abt the tips and have a hands-on session on "How to Google efficiently!" wd some questions.
 
-        - Installing and uninstalling programs using apt 
 
-- Python 
-    - Introduction to programming 
-    - Introduction to scripting language and Python 
-    - Setting up Python 
-    - Getting started -  
-        - Hello World  
-        - Printing odd numbers from 1 to 100  
-        - Convert a given temperature from degrees Fahrenheit to Celsius 
-        - Finding greatest numbers from a list in a file 
+### Monday (30 July 2018):
 
-    - More programs 
-        - Count the Number of Vowels 
-        - Make a simple calculator 
-        - Sent mail using Python and Google API? 
+- **CLI** by [Akhil](https://github.com/kolla47), [Tarun](), and [Prahlad](https://github.com/prahlad125)
+    
+    talk abt the various CLI commands, what are it's uses with a hands-on session
 
-    - Students write program 
-        - Program to Check Leap Year 
-        - Program to Display the Multiplication Table 
-        - Check Whether a String is Palindrome or Not 
 
-    - Make students install git and sign up for an account 
+### Tuesday (31 July 2018) (5 PM to 7 PM):
 
-Day2
+- **CLI continuation/shell scripting** by [Venu](https://github.com/vchrombie)
+  	
+    Clarify the doubts on CLI and teach about shell scripting.
 
-- Git 
-    - What is VCS?  
-    - Use of VCS.  
-    - Introduction to Git and GitHub. 
-    - How does Git work?  
-    - Setting up of Github account and Git in the local system. 
-    - Quick example with Git. ([https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1)) 
-    - Different commands in Git.  
-        - init, add, commit, diff, status, log, remote, push, pull 
 
-    - Make students 
+### Wednesday (1 August 2018) (5 PM to 7 PM):
 
-to push all the python code written into their git account 
+- **Practice Session** by [Venu](https://github.com/vchrombie)
+    
+    We will give them tasks till based on these many days, like bandit game (treasure hunt using linux commands) also with the help of googling. To make it interesting, we will remove the mouse connection and ask them to use only keyboard.
 
-  
-  
+    Link to the file - https://github.com/vchrombie/dev-workshop/blob/master/assets/DO_NOT_CHEAT.tar.gz
+    
+    Solution to it - https://github.com/aswinshenoy/foss-treasure-hunt-sh/blob/master/dig_the_treasure.sh
 
-- Open-Source  
-    - What is open source?  
-    - About various open source organisations. 
-    - Why open source? 
-    - Make them fork a demo, fix bugs and make a pull request. 
 
-- Debugging and fixing code in Python and committing it via Git.  
-- Google Code-in 
-    - What is Google Code-in?  
-    - How to participate in Code-In?  
+### Thursday (2 August 2018) (5 PM to 7 PM):
 
-  
+- **Blogging** by [Shilpa](https://github.com/AriesShilz), [Shobitha](https://github.com/01shobitha)
+    
+    - tell them the rules and importance of blogging, advantages too
+    - help them to create the blog on Wordpress
+    - show some of the good blogs of our club.
 
-Day 3:
+- **email etiquettes** by [Rithwik](https://github.com/rithwik27)
+    
+    - tell them about the rules of sending a mail
+    - give a small hands-on learning thereby actually sending an official mail to some account
+    - Do’s and don'ts.
 
-- Cyber Security 
-    - Dangers of using the Internet 
-    - How to use the internet safely and effectively 
-    - Recent attacks/News/Data Leaks 
-    - Privacy 
-    - Bug Bounty 
-    - Intro to DB/SQL 
-    - Web Security 
-        - Intro to Web Security 
-        - Information Gathering 
-        - SQL Injection 
-        - Examples/Tasks 
+- **IRC** by [Gopa Vasanth](https://github.com/gopavasanth), [Aathira](https://github.com/Athi101)
+    
+    talk abt the rules of IRC, ask them to use irccloud and connect to some dummy channel and start talking
 
-  
 
-Day 4:
+### Friday (2 August 2018) (5 PM to 7 PM):
 
-- Cryptography 
-    - What is crypto? 
-    - Intro to basic cyphers 
-    - Examples/Tasks 
+- **Practice Session** by [Venu](https://github.com/vchrombie)
+    
+    will be giving tasks
+    - ask them to write a blog about "Life changing experience"
+    - have any doubt, let them ask through IRC
+    - and they should mail the blog post link to one thread (will be created later)
 
-- Cyber Forensics 
-    - Intro to forensics 
-    - Image forensics 
-    - Steganography 
-    - Examples/Tasks
+-- END OF THE WORKSHOP --
