@@ -8,3 +8,4 @@ the workshop.
 | ---- | ---- | --- |
 | [Dev Workshop](https://github.com/amfoss/Workshops/tree/dev-workshop) | Jun-Aug 2018 | Bash, Python, Web Workshop conducted for freshers |
 | [Thinkering Workshop](https://github.com/amfoss/Workshops/tree/thinkering-workshop) | April 2018 | | 
+| [BIKOS Workshop](https://github.com/amfoss/Workshops/tree/bikos-workshop)| Feb 2018 | Educating students about cyber security partnering with BIKOS | 
