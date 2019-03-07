@@ -1,10 +1,5 @@
-# FOSS@Amrita Workshops
-This repository is an archive of workshops conducted by FOSS@Amrita over the years,
-containing syllabus, study material, sample codes, problems etc. that were shared during
-the workshop.
+# BIKOS Workshop
 
-### Workshops Archived
-| Workshop Name | Date | Details
-| ---- | ---- | --- |
-| [Dev Workshop](https://github.com/amfoss/Workshops/tree/dev-workshop) | Jun-Aug 2018 | Bash, Python, Web Workshop conducted for freshers |
-| [Thinkering Workshop](https://github.com/amfoss/Workshops/tree/thinkering-workshop) | April 2018 | | 
+Sample programs and demos for the BIKOS workshop
+
+Times of India article: https://timesofindia.indiatimes.com/city/kochi/amritapuri-campus-in-deal-to-teach-students-net-safety/articleshow/62913858.cms
